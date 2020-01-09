@@ -1,0 +1,44 @@
+lastAccountName: stampycatwilson
+timestamps:
+  login: 1578335745991
+  logout: 1578339466344
+  lastteleport: 1578338047941
+  kits:
+    firework: 1578091672394
+    notch: 1578091662843
+    dtools: 1578173683936
+    tools: 1578163191352
+ipAddress: 86.25.207.17
+logoutlocation:
+  world: world
+  x: -19.758507171543187
+  y: 92.47129993428098
+  z: -479.5225058401329
+  yaw: 179.3977
+  pitch: 8.700188
+lastlocation:
+  world: world
+  x: -114.73656239231819
+  y: 181.0
+  z: -470.3539186717492
+  yaw: -150.76216
+  pitch: 34.94998
+homes:
+  home:
+    world: world
+    x: -248.169549879123
+    y: 2.0
+    z: -580.7962395460439
+    yaw: 175.50024
+    pitch: 19.79998
+godmode: false
+nickname: stampycatwilson
+powertools:
+  fishing_rod:
+  - /heal stampycatwilson
+  blaze_rod:
+  - /kill summiner
+  iron_sword:
+  - /heal stampycatwilson
+  stick:
+  - /kill summiner

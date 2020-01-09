@@ -1,0 +1,38 @@
+lastAccountName: summiner
+timestamps:
+  login: 1578339027609
+  logout: 1578341551828
+  lastteleport: 1578341543025
+  kits:
+    notch: 1578163408352
+    dtools: 1578173660536
+    tools: 1578172658853
+ipAddress: 38.133.243.8
+logoutlocation:
+  world: world
+  x: -192.37207781576163
+  y: 69.0
+  z: -469.8718753101382
+  yaw: 115.34985
+  pitch: 29.549963
+lastlocation:
+  world: world
+  x: -192.5
+  y: 68.0
+  z: -472.5
+  yaw: 53.69988
+  pitch: -90.0
+money: '100000000'
+powertools:
+  nether_star:
+  - warp Hacker
+  diamond:
+  - warp spawn
+  blaze_rod:
+  - is
+  stick:
+  - god
+  diamond_sword:
+  - gm creative
+godmode: false
+afk: false

@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "savanna": "2020-01-03 17:43:45 -0500",
+      "river": "2020-01-03 17:43:44 -0500",
+      "desert": "2020-01-03 17:42:04 -0500"
+    },
+    "done": false
+  }
+}
